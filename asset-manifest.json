@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/naver_map_api/static/js/main.f4e83afd.js",
+    "main.js": "/naver_map_api/static/js/main.477c6cdb.js",
     "index.html": "/naver_map_api/index.html",
-    "main.f4e83afd.js.map": "/naver_map_api/static/js/main.f4e83afd.js.map"
+    "main.477c6cdb.js.map": "/naver_map_api/static/js/main.477c6cdb.js.map"
   },
   "entrypoints": [
-    "static/js/main.f4e83afd.js"
+    "static/js/main.477c6cdb.js"
   ]
 }
